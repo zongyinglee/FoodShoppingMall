@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="FoodShoppingMall:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5893f051-0a91-4f10-b5c6-05c91750863a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/main/controller/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/main/controller/HomeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/view/admin.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/view/admin.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/view/home.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/view/home.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/view/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/view/login.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\潜水喵\Desktop\实习项目\FoodShoppingMall\.idea" />
+        <option value="C:\Users\潜水喵\Desktop\实习项目\System-SnackShopping\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1em03KmsWmJToxPOPjueTiOSGKY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\homework\System-SnackShopping\web\view" />
+      <recent name="D:\homework\System-SnackShopping\web\js" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.main.utils" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\homework\System-SnackShopping\lib" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 8.5.46" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.46" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="FoodShoppingMall:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_System-SnackShopping_2" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="6859" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="FoodShoppingMall:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5893f051-0a91-4f10-b5c6-05c91750863a" name="Default Changelist" comment="" />
+      <created>1594911260679</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594911260679</updated>
+      <workItem from="1594911264982" duration="688000" />
+      <workItem from="1595078570647" duration="1578000" />
+      <workItem from="1595080415520" duration="9596000" />
+      <workItem from="1595128628924" duration="1682000" />
+      <workItem from="1595130332060" duration="343000" />
+      <workItem from="1595130784045" duration="1186000" />
+      <workItem from="1595132179894" duration="2594000" />
+      <workItem from="1595136618114" duration="417000" />
+      <workItem from="1595163674527" duration="84000" />
+      <workItem from="1595163847225" duration="42000" />
+      <workItem from="1595164187098" duration="100000" />
+      <workItem from="1595164320621" duration="1324000" />
+      <workItem from="1595165673387" duration="171000" />
+      <workItem from="1595165870823" duration="3392000" />
+      <workItem from="1595209550952" duration="8395000" />
+    </task>
+    <task id="LOCAL-00001" summary="食品购物网站的代码和sql文件">
+      <created>1595136853940</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595136853940</updated>
+    </task>
+    <task id="LOCAL-00002" summary="食品购物网站的代码和sql文件">
+      <created>1595164646224</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1595164646224</updated>
+    </task>
+    <task id="LOCAL-00003" summary="我们组食品购物网站的代码和sql文件">
+      <created>1595164960528</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1595164960528</updated>
+    </task>
+    <task id="LOCAL-00004" summary="我们组食品购物网站的代码和sql文件">
+      <created>1595165463957</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1595165463957</updated>
+    </task>
+    <task id="LOCAL-00005" summary="我们组食品购物网站的代码和sql文件">
+      <created>1595165984820</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1595165984820</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="食品购物网站的代码和sql文件" />
+    <MESSAGE value="我们组食品购物网站的代码和sql文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="我们组食品购物网站的代码和sql文件" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="360" y="74" key="#Project_Structure" timestamp="1594911460895">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="360" y="74" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1594911460895" />
+    <state x="25" y="65" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595217979099">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="25" y="65" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1595217979099" />
+    <state x="190" y="109" key="#com.intellij.ide.util.MemberChooser" timestamp="1595084174959">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="190" y="109" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1595084174959" />
+    <state x="162" y="68" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable" timestamp="1595217971831">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="162" y="68" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.0.1536.824@0.0.1536.824" timestamp="1595217971831" />
+    <state x="304" y="10" key="CommitChangelistDialog2" timestamp="1595228025274">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="304" y="10" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1595228025274" />
+    <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1595167907847">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1595167907847" />
+    <state width="1024" height="291" key="GridCell.Tab.0.bottom" timestamp="1595220356978">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="291" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595220356978" />
+    <state width="1024" height="291" key="GridCell.Tab.0.center" timestamp="1595220356978">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="291" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1595220356978" />
+    <state width="1024" height="291" key="GridCell.Tab.0.left" timestamp="1595220356978">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="291" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1595220356978" />
+    <state width="1024" height="291" key="GridCell.Tab.0.right" timestamp="1595220356978">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="291" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1595220356978" />
+    <state width="1024" height="291" key="GridCell.Tab.1.bottom" timestamp="1595220356979">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="291" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595220356979" />
+    <state width="1024" height="291" key="GridCell.Tab.1.center" timestamp="1595220356978">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="291" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1595220356978" />
+    <state width="1024" height="291" key="GridCell.Tab.1.left" timestamp="1595220356978">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="291" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1595220356978" />
+    <state width="1024" height="291" key="GridCell.Tab.1.right" timestamp="1595220356978">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="291" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1595220356978" />
+    <state width="1024" height="291" key="GridCell.Tab.2.bottom" timestamp="1595220356979">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="291" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595220356979" />
+    <state width="1024" height="291" key="GridCell.Tab.2.center" timestamp="1595220356979">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="291" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1595220356979" />
+    <state width="1024" height="291" key="GridCell.Tab.2.left" timestamp="1595220356979">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="291" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1595220356979" />
+    <state width="1024" height="291" key="GridCell.Tab.2.right" timestamp="1595220356979">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="291" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1595220356979" />
+    <state x="95" y="0" key="SettingsEditor" timestamp="1595215846613">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="95" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1595215846613" />
+    <state x="361" y="149" key="Vcs.Push.Dialog.v2" timestamp="1595228040907">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="149" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1595228040907" />
+  </component>
+</project>
